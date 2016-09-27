@@ -1,2 +1,2 @@
 # WebProject
-![](1.png)
+![](1.PNG)
